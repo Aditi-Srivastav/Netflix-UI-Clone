@@ -18,7 +18,7 @@ This is a simple **Netflix Clone** built using **HTML, CSS, and JavaScript**. Th
 ## Setup Instructions
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Aditi-Srivastav/Netflix-UI-Clone.git
+   https://github.com/Aditi-Srivastav/Netflix-UI-Clone
    ```
 2. Open `Netflix.html` in a web browser.
 
